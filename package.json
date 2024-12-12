@@ -29,6 +29,9 @@
     "not ie <= 11",
     "not op_mini all"
   ],
+  "engines": {
+    "node": "8.10.0"
+  },
   "devDependencies": {
     "node-sass": "^4.11.0"
   }
